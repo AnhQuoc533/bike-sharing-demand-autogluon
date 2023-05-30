@@ -1,0 +1,5 @@
+python>=3.7
+pandas>=1.2.4
+autogluon>=0.2.0
+kaggle
+dotenv
